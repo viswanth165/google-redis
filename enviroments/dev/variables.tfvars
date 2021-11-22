@@ -1,0 +1,1 @@
+gcp_redis_memory_size_gb = 2
